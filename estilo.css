@@ -94,3 +94,9 @@ button:hover {
 #formulario button:hover {
   background-color: #0056b3;
 }
+#respuesta {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 0.95rem;
+  text-align: center;
+}
